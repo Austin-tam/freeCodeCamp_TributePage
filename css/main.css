@@ -263,11 +263,20 @@ textarea {
 
 #main {
   background-color: lightgray;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+#img-div {
+  background-color: white;
+  margin: 20px;
+  border-radius: 10px;
 }
 
 #image {
   display: block;
   margin: auto;
+  padding: 20px;
   width: 50%;
 }
 
@@ -279,4 +288,6 @@ textarea {
 #title {
   font-size: 48px;
   text-align: center;
+  margin: auto;
+  padding-top: 10px;
 }
