@@ -278,6 +278,7 @@ textarea {
   margin: auto;
   padding: 20px;
   width: 50%;
+  max-width: 550px;
 }
 
 #img-caption {
@@ -290,4 +291,22 @@ textarea {
   text-align: center;
   margin: auto;
   padding-top: 10px;
+}
+
+#tribute-info {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 25%;
+  list-style-position: outside;
+  font-size: 20px;
+}
+
+#wiki-link {
+  font-size: 20px;
+  text-align: center;
+}
+
+li {
+  text-align: left;
 }
